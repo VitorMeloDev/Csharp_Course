@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\bin\Debug\net7.0\Exercicios_Fixação_Classes_02.exe
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\bin\Debug\net7.0\Exercicios_Fixação_Classes_02.deps.json
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\bin\Debug\net7.0\Exercicios_Fixação_Classes_02.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\bin\Debug\net7.0\Exercicios_Fixação_Classes_02.dll
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\bin\Debug\net7.0\Exercicios_Fixação_Classes_02.pdb
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.dll
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\refint\Exercicios_Fixação_Classes_02.dll
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.pdb
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\Exercicios_Fixação_Classes_02.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Exercicios_Fixação_Classes_02\Exercicios_Fixação_Classes_02\obj\Debug\net7.0\ref\Exercicios_Fixação_Classes_02.dll

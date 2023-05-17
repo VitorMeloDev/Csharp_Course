@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net7.0\Exercicio de Fixação.exe
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net7.0\Exercicio de Fixação.deps.json
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net7.0\Exercicio de Fixação.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net7.0\Exercicio de Fixação.dll
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\bin\Debug\net7.0\Exercicio de Fixação.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.dll
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\refint\Exercicio de Fixação.dll
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\Exercicio de Fixação.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Exercicio de Fixação\Exercicio de Fixação\obj\Debug\net7.0\ref\Exercicio de Fixação.dll
