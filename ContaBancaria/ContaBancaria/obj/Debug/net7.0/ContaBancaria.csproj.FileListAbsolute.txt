@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\ContaBancaria\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll
