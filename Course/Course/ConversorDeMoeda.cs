@@ -1,7 +1,7 @@
 ﻿
 namespace Course
 {
-    class ConversorDeMoeda
+    internal class ConversorDeMoeda
     {
         static double reais;
 

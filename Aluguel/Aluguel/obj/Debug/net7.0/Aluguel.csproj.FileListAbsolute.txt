@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\bin\Debug\net7.0\Aluguel.exe
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\bin\Debug\net7.0\Aluguel.deps.json
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\bin\Debug\net7.0\Aluguel.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\bin\Debug\net7.0\Aluguel.dll
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\bin\Debug\net7.0\Aluguel.pdb
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.dll
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\refint\Aluguel.dll
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.pdb
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\Aluguel.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Aluguel\Aluguel\obj\Debug\net7.0\ref\Aluguel.dll
