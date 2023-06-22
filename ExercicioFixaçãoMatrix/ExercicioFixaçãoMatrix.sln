@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixaçãoMatrix", "ExercicioFixaçãoMatrix\ExercicioFixaçãoMatrix.csproj", "{A91CE0B2-E059-4995-974D-830272703AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91CE0B2-E059-4995-974D-830272703AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91CE0B2-E059-4995-974D-830272703AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91CE0B2-E059-4995-974D-830272703AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91CE0B2-E059-4995-974D-830272703AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C74837-B3FA-4BA0-9E5C-7778B3D2FEB4}
+	EndGlobalSection
+EndGlobal
