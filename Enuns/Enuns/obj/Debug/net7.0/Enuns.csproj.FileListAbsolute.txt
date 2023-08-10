@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\bin\Debug\net7.0\Enuns.exe
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\bin\Debug\net7.0\Enuns.deps.json
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\bin\Debug\net7.0\Enuns.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\bin\Debug\net7.0\Enuns.dll
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\bin\Debug\net7.0\Enuns.pdb
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.dll
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\refint\Enuns.dll
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.pdb
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\Enuns.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Enuns\Enuns\obj\Debug\net7.0\ref\Enuns.dll

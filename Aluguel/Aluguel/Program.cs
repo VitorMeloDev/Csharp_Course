@@ -7,7 +7,7 @@ namespace Aluguel
     {
         static void Main(string[] args)
         {
-            Estudante[] hospede = new Estudante[9]; 
+            Estudante[] hospede = new Estudante[9];
             int quarto;
 
             Console.Write("Quantos quartos serão alugados? ");
@@ -16,7 +16,7 @@ namespace Aluguel
 
             for (int i = 0; i < quarto; i++)
             {
-                int aluguel = i+1;
+                int aluguel = i + 1;
                 Console.WriteLine("Aluguel #" + aluguel + ": ");
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
@@ -30,9 +30,9 @@ namespace Aluguel
             }
 
             Console.WriteLine("Quartos ocupados: ");
-            for (int i = 0;i < hospede.Length;i++) 
+            for (int i = 0; i < hospede.Length; i++)
             {
-                if (hospede[i] !=  null) 
+                if (hospede[i] != null)
                 {
                     Console.WriteLine(i + ": " + hospede[i].Nome + ", " + hospede[i].Email);
                 }
