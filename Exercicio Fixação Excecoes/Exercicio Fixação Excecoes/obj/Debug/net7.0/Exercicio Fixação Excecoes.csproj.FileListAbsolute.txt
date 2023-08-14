@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\bin\Debug\net7.0\Exercicio Fixação Excecoes.exe
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\bin\Debug\net7.0\Exercicio Fixação Excecoes.deps.json
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\bin\Debug\net7.0\Exercicio Fixação Excecoes.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\bin\Debug\net7.0\Exercicio Fixação Excecoes.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\bin\Debug\net7.0\Exercicio Fixação Excecoes.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\refint\Exercicio Fixação Excecoes.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\Exercicio Fixação Excecoes.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Excecoes\Exercicio Fixação Excecoes\obj\Debug\net7.0\ref\Exercicio Fixação Excecoes.dll
