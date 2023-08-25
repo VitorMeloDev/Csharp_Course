@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\bin\Debug\net7.0\Exercicio_secao_13.exe
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\bin\Debug\net7.0\Exercicio_secao_13.deps.json
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\bin\Debug\net7.0\Exercicio_secao_13.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\bin\Debug\net7.0\Exercicio_secao_13.dll
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\bin\Debug\net7.0\Exercicio_secao_13.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.dll
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\refint\Exercicio_secao_13.dll
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\Exercicio_secao_13.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Exercicio_secao_13\Exercicio_secao_13\obj\Debug\net7.0\ref\Exercicio_secao_13.dll

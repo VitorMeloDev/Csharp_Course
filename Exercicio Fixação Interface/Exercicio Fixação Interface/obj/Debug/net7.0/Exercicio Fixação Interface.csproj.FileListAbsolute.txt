@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\bin\Debug\net7.0\Exercicio Fixação Interface.exe
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\bin\Debug\net7.0\Exercicio Fixação Interface.deps.json
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\bin\Debug\net7.0\Exercicio Fixação Interface.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\bin\Debug\net7.0\Exercicio Fixação Interface.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\bin\Debug\net7.0\Exercicio Fixação Interface.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\refint\Exercicio Fixação Interface.dll
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.pdb
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\Exercicio Fixação Interface.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\Exercicio Fixação Interface\Exercicio Fixação Interface\obj\Debug\net7.0\ref\Exercicio Fixação Interface.dll
