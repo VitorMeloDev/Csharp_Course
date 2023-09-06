@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.exe
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.deps.json
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.runtimeconfig.json
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.dll
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\net7.0\ExercicioPropostoDictionary.pdb
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.dll
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\refint\ExercicioPropostoDictionary.dll
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.pdb
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ExercicioPropostoDictionary.genruntimeconfig.cache
+C:\Users\User\Documents\Projects\C#\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\net7.0\ref\ExercicioPropostoDictionary.dll
